@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">John Green Books</string>
+
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="todo">TODO</string>
+    <string name="john_green_books">John Green Books</string>
+
+    <string name="back">Back</string>
+    <string name="refresh">Refresh</string>
+    <string name="forward">Forward</string>
+    <string name="origin">Origin</string>
+    <string name="_2023">2023</string>
+    <string name="view_book_description">View book description</string>
+    <string name="description">Description</string>
+    <string name="go_to_the_website">Go to the website</string>
+</resources>
